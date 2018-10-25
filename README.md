@@ -13,34 +13,34 @@ I start out by sketching in my sketchbook. Once I'm finished with my sketch, I p
 
 Then, I crop my image down so that only the art work is showing and there is no more evidence of my sketchbook in the image. To crop an image in Photoshop, locate your crop tool (circled in red) and then size the picture down accordingly using the corner pieces displayed on your image.
 
-![crop](cropimage.jpg)
+![crop](cropimage.png)
 
 
 ## Step 3
 
 Next, I work on the contrast of my image so that it doesn't look so gray. To do this I go to Image > Adjustments > Levels.
 
-![levels](levels.jpg)
+![levels](levels.png)
 
 
 ## Step 4
 
 Adjust the sliders within the levels panel. You'll want to move the sliders on both ends closer towards the middle. This will make your whites whiter and your blacks blacker. The slider in the middle will adjust your mid-tones. I typically don't use that.
 
-![slider](levelslider.jpg)
+![slider](levelslider.png)
 
 
 ## Step 5
 
 I decided I wanted to change up my background, so I cut out my robot with the polygon lasso tool so that I could place a different background behind him. (You don't have to do this) Once I found a background I liked, I just dragged it into Photoshop and placed it behind my robot layer.
 
-![lasso](lasso.jpg)
+![lasso](lasso.png)
 
 
 ## Step 6
 
 After I got my background figured out, I worked on smoothing out my robot with the Mixer Brush tool so that he had more of a finished metal look. (You'll find the mixer brush tool underneath the regular paintbrush) The rest is simply preference. From here you can add more details, change colors, paint or draw in the background, etc. For my robot I chose to define some of his features more clearly with the pen tool, ellipse tool, and rectangle tool. For example, I used the ellipse tool to create black circles outlining the eyes.
 
-![brush](mixerbrush.jpg)
+![brush](mixerbrush.png)
 
 ## DONE!
