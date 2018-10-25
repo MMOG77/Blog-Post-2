@@ -6,7 +6,7 @@ Most illustrators today use tablets to create their masterpieces. Though, most a
 
 I start out by sketching in my sketchbook. Once I'm finished with my sketch, I place it on the scanner of my printer and scan it in for editing. (This is my scan)
 
-![sketch](robotedit.jpg)
+![sketch](sketch.png)
 
 
 ## Step 2
@@ -44,3 +44,5 @@ After I got my background figured out, I worked on smoothing out my robot with t
 ![brush](mixerbrush.png)
 
 ## DONE!
+
+![finished](robotedit.jpg)
